@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "https://github.com/druzhchenko/dummy-backend-app",
+    "project_destination_path": "dummy-backend-app",
+    "application_name": "dummy",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
